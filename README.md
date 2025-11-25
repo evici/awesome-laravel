@@ -164,6 +164,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Integration with Javascript
 
+* [Inertia](https://inertiajs.com/) - Modern JavaScript in Laravel Monolith (React, Vue, Svelte)
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - Pass server-side string/array/collection/whatever to JavaScript
 * [Javascript Validation](https://github.com/proengsoft/laravel-jsvalidation) - Use validation rules, messages, FormRequest and validators to validate forms in client-side
